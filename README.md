@@ -1,7 +1,7 @@
 
 
 <!--[profile](./r.jpg)-->
-<img src="r.jpg" width="600"/>
+<img src="r.jpg" width="400"/>
 
 
 
